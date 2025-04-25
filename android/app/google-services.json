@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888694419746",
+    "project_id": "azure-37c74",
+    "storage_bucket": "azure-37c74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888694419746:android:aca02c0b9f14fc70eb357b",
+        "android_client_info": {
+          "package_name": "com.example.azure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVv5_jS_NBQonBMoGvEGB0DpHgtlULYRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
